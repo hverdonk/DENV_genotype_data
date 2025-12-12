@@ -1,4 +1,4 @@
-gene,genotype,BUSTED_pval,BUSTED_prop_sites_in_omega3,negative_sites,T,N,RELAX_K,positive_sites,RELAX_overall_pval,BUSTED_omega3,diff_sites,sites
+gene,comparison_group,BUSTED_pval,BUSTED_prop_sites_in_omega3,negative_sites,T,N,RELAX_K,positive_sites,RELAX_overall_pval,BUSTED_omega3,diff_sites,sites
 capsid_protein_C,2I,0.5,0.0,60,1.552284498830115,394,1,1,8.320488298352302e-09,1.017153597555343,0,100
 capsid_protein_C,2II,0.5,0.0,60,1.552284498830115,394,0.6275824637195596,1,8.320488298352302e-09,1.017153597555343,0,100
 capsid_protein_C,2III,0.5,0.0,60,1.552284498830115,394,1.119106899975584,1,8.320488298352302e-09,1.017153597555343,0,100
